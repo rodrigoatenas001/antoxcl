@@ -1,8 +1,8 @@
-# Asistente Interactivo de Cotización y Selección de Planes Contables para Antox.cl 🚀
+# Asistente Interactivo de Cotización y Selección de Planes Contables para Antox.cl 
 
 Bienvenido al repositorio del proyecto para el desarrollo de un asistente interactivo, diseñado para simplificar la selección de servicios contables y de asesoría en [Antox.cl](https://www.antox.cl/planescontables). Este asistente busca mejorar la experiencia del usuario y guiarlo eficientemente a través de la compleja oferta de servicios de Antox.cl, incluyendo sus asociaciones estratégicas.
 
-## 🎯 Descripción del Producto Digital (El Asistente)
+##  Descripción del Producto Digital (El Asistente)
 
 Este "Asistente de Cotización/Selección de Plan" es una herramienta basada en web que interactúa con el usuario a través de una serie de preguntas clave. Su objetivo principal es:
 
@@ -13,7 +13,7 @@ Este "Asistente de Cotización/Selección de Plan" es una herramienta basada en 
 
 El asistente es una aplicación de frontend puro (HTML, CSS, JavaScript) que puede ser fácilmente integrada en la página existente de Antox.cl o funcionar como una subpágina dedicada.
 
-## 💡 Problemática Abordada y Solución Implementada
+##  Problemática Abordada y Solución Implementada
 
 ### Problemática: La Complejidad en la Selección de Servicios Contables
 
@@ -42,7 +42,7 @@ Para abordar esta problemática, he desarrollado un "Asistente de Cotización/Se
     * Menciona y contextualiza el **beneficio del hosting gratuito de hostinghat.cl** cuando sea relevante para el tipo de servicio recomendado.
 * **Diseño Intuitivo:** La interfaz es limpia y fácil de usar, minimizando la carga cognitiva del usuario.
 
-## 🛠️ Tecnologías Utilizadas y Motivación del Proyecto
+##  Tecnologías Utilizadas y Motivación del Proyecto
 
 Este proyecto está construido con tecnologías web estándar para asegurar compatibilidad y facilidad de implementación:
 
@@ -56,7 +56,7 @@ La motivación detrás de este asistente es doble:
 1.  **Para Antox.cl:** Optimizar el proceso de adquisición de clientes, reducir las consultas iniciales que no están pre-calificadas, y asegurar que los clientes encuentren la solución correcta, aumentando potencialmente la conversión y la satisfacción del cliente.
 2.  **Para los Usuarios:** Simplificar una decisión compleja, ahorrándoles tiempo y esfuerzo en la búsqueda del servicio adecuado, y garantizándoles que están tomando una decisión informada. Esto alinea la solución con los principios de *Service Design*, enfocándose en mejorar el "viaje" completo del cliente.
 
-## 🚀 Guía de Instalación y Uso
+##  Guía de Instalación y Uso
 
 Para ejecutar y probar este asistente localmente, sigue estos sencillos pasos:
 
@@ -75,19 +75,19 @@ Una vez abierto, el asistente te guiará automáticamente:
 2.  Haz clic en "Siguiente" o el botón correspondiente para avanzar.
 3.  Al final, se te presentará una recomendación personalizada.
 
-## 🌐 Producto Digital Desplegado
+##  Producto Digital Desplegado
 
 Puedes acceder y probar el asistente en vivo a través del siguiente enlace:
 
-👉 **[ENLACE_A_TU_ASISTENTE_DESPLEGADO_EN_GITHUB_PAGES_O_OTRO_HOSTING]**
+ **[ENLACE_A_TU_ASISTENTE_DESPLEGADO_EN_GITHUB_PAGES_O_OTRO_HOSTING]**
 
 ## 📺 Video Técnico del Proyecto
 
 He preparado un video explicativo en YouTube que detalla la problemática, la solución implementada (con una demostración en vivo del asistente), y cómo funciona.
 
-🎥 **[ENLACE_A_TU_VIDEO_DE_YOUTUBE]**
+ **[ENLACE_A_TU_VIDEO_DE_YOUTUBE]**
 
-## 🤝 Contribuciones y Feedback
+##  Contribuciones y Feedback
 
 ¡Tu feedback es valioso! Si tienes sugerencias o encuentras algún problema, por favor, abre un "Issue" en este repositorio.
 
